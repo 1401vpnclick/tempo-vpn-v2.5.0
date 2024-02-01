@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"جهت حمایت از ما و استفاده از برنامه لطفا در کانال تلگرام ما عضو شوید ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
